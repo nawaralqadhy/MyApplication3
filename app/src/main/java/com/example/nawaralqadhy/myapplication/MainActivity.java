@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         Button calculator, calender, time, note,read;
-        // Nawar Alqadhy
+        // Nawar Alqadhy n
 
 
 // get the reference of Button's
