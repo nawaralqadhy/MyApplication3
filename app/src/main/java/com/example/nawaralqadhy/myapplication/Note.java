@@ -37,7 +37,7 @@ public class Note extends Activity{
                 Log.d("supernotes","title is --> "+title);
                 Log.d("supernotes","note is --> "+note);
 
-                // 3. after saving, we will read the data
+                // 3. after saving, we will read the data v
 
                 BufferedWriter writer = null;
 
